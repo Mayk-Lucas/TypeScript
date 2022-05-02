@@ -1,1 +1,1 @@
-# JavaScript
+# O TypeScript esta na master.
