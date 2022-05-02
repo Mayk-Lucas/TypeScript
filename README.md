@@ -1,1 +1,1 @@
-# Treinando JavaScript para mais conhecimento. 
+# Treinando JavaScript e TypeScript para mais conhecimento. 
